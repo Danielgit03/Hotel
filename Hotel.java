@@ -1,7 +1,8 @@
 // Reservacion de un hotel 
 import java.util.Scanner;
 
-
+// Daniel Santiago Ostos Urrego 192358
+// 
 public class Hotel {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
