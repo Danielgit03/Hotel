@@ -2,7 +2,9 @@
 import java.util.Scanner;
 
 // Daniel Santiago Ostos Urrego 192358
-// 
+// Joan David Monroy Quintero 192374
+//Daniel Adolfo Amaya Rodriguez 192381
+
 public class Hotel {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
